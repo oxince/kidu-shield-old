@@ -1,0 +1,2 @@
+function GiveWeaponToPed(...) exports['kidu-shield']:GiveWeaponToKiduPed(...); end
+function SetEntityVisible(...) exports['kidu-shield']:SetKiduEntityVisible(...); end
